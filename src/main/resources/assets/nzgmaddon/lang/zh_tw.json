@@ -1,0 +1,36 @@
+{
+  "item.nzgmaddon.automatic_marksman_rifle": "自動射手步槍",
+  "item.nzgmaddon.automatic_shotgun": "自動霰彈槍",
+  "item.nzgmaddon.battle_rifle": "戰鬥步槍",
+  "item.nzgmaddon.double_barreled_shotgun": "雙管霰彈槍",
+  "item.nzgmaddon.heavy_assault_rifle": "重型突擊步槍",
+  "item.nzgmaddon.hunting_rifle": "狩獵步槍",
+  "item.nzgmaddon.hunting_shotgun": "狩獵霰彈槍",
+  "item.nzgmaddon.infantry_rifle": "步兵步槍",
+  "item.nzgmaddon.machine_gun": "機槍",
+  "item.nzgmaddon.uzi": "小型衝鋒槍",
+  "item.nzgmaddon.pump_shotgun": "泵動式霰彈槍",
+  "item.nzgmaddon.rapid_smg": "快速衝鋒槍",
+  "item.nzgmaddon.revolver": "左輪手槍",
+  "item.nzgmaddon.sniper_rifle": "狙擊步槍",
+  "item.nzgmaddon.submachine_gun": "衝鋒槍",
+
+  "item.nzgmaddon.medium_bullet": "中型子彈",
+
+  "item.nzgmaddon.extended_barrel": "加長槍管",
+  "item.nzgmaddon.flash_hider": "槍口消焰器",
+  "item.nzgmaddon.muzzle_brake": "槍口制退器",
+
+  "item.nzgmaddon.ballistic_scope": "狙擊瞄鏡",
+  "item.nzgmaddon.chevron_scope": "Chevron瞄鏡",
+  "item.nzgmaddon.dot_sight": "內紅點瞄鏡",
+
+  "item.nzgmaddon.carbine_stock": "卡賓槍托",
+  "item.nzgmaddon.dyeable_tactical_stock": "戰術槍托",
+  "item.nzgmaddon.marksman_stock": "精確槍托",
+  "item.nzgmaddon.short_stock": "短槍托",
+  "item.nzgmaddon.solid_stock": "實心槍托",
+  "item.nzgmaddon.stabilizing_stock": "穩定槍托",
+
+  "item.nzgmaddon.horizontal_grip": "水平握把"
+}
